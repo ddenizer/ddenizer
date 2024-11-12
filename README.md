@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deniz</h1>
-<h3 align="center">I'm a Full Stack Developer! 🎉</h3>
+<h1 align="left">Hi 👋, I'm Deniz</h1>
+<h3 align="left">I'm a Software Developer! 🎉</h3>
 
 <p align="center">
   <img src="Kirby.gif" alt="Masthead GIF" width="50%" style="max-width: 600px;" />
