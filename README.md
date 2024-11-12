@@ -5,6 +5,6 @@
   </div>
   
   <div>
-    <img src="Kirby.gif" alt="Masthead GIF" width="50%" style="max-width: 600px;" />
+    <img src="Kirby.gif" alt="Masthead GIF" width="40%" style="max-width: 600px;" />
   </div>
 </div>
