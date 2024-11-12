@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">I'm a Full Stack Developer! 🎉</h3>
 
+[![MasterHead](https://tr.pinterest.com/pin/396387205495510702/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
