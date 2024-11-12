@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">I'm a Full Stack Developer! 🎉</h3>
 
-![Masthead GIF](#Kirby.gif)
+![Masthead GIF](Kirby.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
