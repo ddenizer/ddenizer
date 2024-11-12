@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <div>
-    <h1>Hi 👋, I'm Deniz</h1>
+    <h2>Hi 👋, I'm Deniz</h2>
     <h3>I'm a Software Developer! 🎉</h3>
   </div>
   
@@ -8,3 +8,4 @@
     <img src="Kirby.gif" alt="Masthead GIF" width="40%" style="max-width: 600px;" />
   </div>
 </div>
+
