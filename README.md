@@ -2,5 +2,5 @@
 <h5 align="left">I'm a Software Developer! 🎉</h3>
 
 <p align="left">
-  <img src="Kirby.gif" alt="Masthead GIF" width="70%" />
+  <img src="Kirby.gif" alt="Masthead GIF" width="30%" />
 </p>
